@@ -20,7 +20,7 @@
   <a href="https://play.google.com/store/apps/details?id=com.probashbook.probashbook&pcampaignid=web_share">
     <img src="https://img.shields.io/badge/Android-Download-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download on Android"/>
   </a>
-  <a href="https://apps.apple.com/app/probash-book/id6741025199)">
+  <a href="https://apps.apple.com/app/probash-book/id6741025199">
     <img src="https://img.shields.io/badge/iOS-Download-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download on iOS"/>
   </a>
 </p>
