@@ -1,7 +1,7 @@
 # ProbashBook
 
 <p align="center">
-  <img src="./logo.png" alt="ProbashBook Logo" width="200"/>
+  <img src="https://backend.probashbook.com/storage/uploads/settings/logo/1697614397_probashbook.png" alt="ProbashBook Logo" width="200"/>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="[YOUR_ANDROID_LINK]">
-    <img src="https://img.shields.io/badge/Android-Download-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download on Android"/>
+    <img src="https://play.google.com/store/apps/details?id=com.probashbook.probashbook&pcampaignid=web_share?style=for-the-badge&logo=android&logoColor=white" alt="Download on Android"/>
   </a>
   <a href="[YOUR_IOS_LINK]">
     <img src="https://img.shields.io/badge/iOS-Download-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download on iOS"/>
