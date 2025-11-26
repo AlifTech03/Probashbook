@@ -52,57 +52,37 @@ To empower the Bangladeshi diaspora in Italy by providing a centralized platform
 ## 🛠️ Tech Stack
 
 ### Frontend
-- React Native / Flutter *(specify your framework)*
-- Redux / Context API for state management
+- React Native + Expo
+- Redux + Context API for state management
 
 ### Backend
-- Node.js with Express / Django / Laravel *(specify your backend)*
-- RESTful API / GraphQL
+- Node.js with Express
+- RESTful API
 
 ### Database
-- MongoDB / PostgreSQL / MySQL *(specify your database)*
+- PostgreSQL
 
 ### Cloud & Services
-- Firebase / AWS / Google Cloud *(specify your cloud provider)*
+- Firebase
 - Push Notifications
-- Real-time messaging
 
 ### Additional Technologies
 - Google Maps API for location services
-- News API integration
-- Payment gateway integration *(if applicable)*
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-```bash
-# Install dependencies
-npm install
-# or
-yarn install
-```
-
-### Running the Application
-
-```bash
-# For Android
-npm run android
-
-# For iOS
-npm run ios
-
-# For Web (if applicable)
-npm run web
-```
 
 ---
 
 ## 📸 Screenshots
 
-*(Add your app screenshots here)*
+<p align="center">
+  <img src="./screenshots/screenshot1.png" alt="Home Screen" width="200"/>
+  <img src="./screenshots/screenshot2.png" alt="Job Search" width="200"/>
+  <img src="./screenshots/screenshot3.png" alt="Housing Listings" width="200"/>
+  <img src="./screenshots/screenshot4.png" alt="Community Feed" width="200"/>
+  <img src="./screenshots/screenshot5.png" alt="Tutorial Section" width="200"/>
+</p>
+<p align="center">
+  <em>Home • Job Search • Housing • Community • Tutorials</em>
+</p>
 
 ---
 
